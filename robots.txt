@@ -1,3 +1,2 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Disallow: Curriculum_Sergio_V1.0.1.pdf
