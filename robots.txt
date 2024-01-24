@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: Curriculum_Sergio_V1.0.1.pdf
+Disallow: /Curriculum_Sergio_V1.0.1.pdf
